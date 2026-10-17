@@ -1,5 +1,8 @@
-# bioMath374
-Biomathematics 379 code repository for final report
+<h1>bioMath374</h1>
+***
+<h3>The repo name should read "bioMath374 The last character is incorrect, My mistake"</h3>
+
+Biomathematics 374 code repository for final report
 
 Please access the data [here](https://xmart-api-public.who.int/FLUMART/VIW_FNT?$format=csv)
 
